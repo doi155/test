@@ -1,4 +1,5 @@
 import sys
+import os.path
 
 
 def foo():
